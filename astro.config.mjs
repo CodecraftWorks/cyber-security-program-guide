@@ -12,7 +12,10 @@ export default defineConfig({
 					label: 'Guides',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
+						{ label: 'CyberPatriot', slug: 'guides/cyberpatriot' },
+						{ label: 'National Cyber League', slug: 'guides/national-cyber-league' },
+						{ label: 'Windows Guide', slug: 'guides/windows' },
+						{ label: 'Linux Guide', slug: 'guides/linux' },
 					],
 				},
 				{
